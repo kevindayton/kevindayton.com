@@ -2,16 +2,12 @@
 ID: 383
 post_title: Music publishers want more of your money
 author: Kevin L. Dayton
-post_date: 2009-09-17 11:57:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/09/17/music-publishers-want-more-of-your-money/
+  https://kevindayton.com/2009/09/17/music-publishers-want-more-of-your-money/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-09-17 11:57:52
 ---
 Imagine that: Someone in the record industry wants more money.  Shocking, I know. <a title="http://news.cnet.com/8301-1023_3-10355448-93.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20" href="http://news.cnet.com/8301-1023_3-10355448-93.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20" target="_blank"> According to cnet news</a>, music publishers are the latest victims of the digital age.  Apparently, they make pennies on the dollar for tracks sold on iTunes and in other digital music stores.
 

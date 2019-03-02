@@ -4,14 +4,12 @@ post_title: >
   My letter to my representation regarding
   PIPA/SOPA
 author: Kevin L. Dayton
-post_date: 2012-01-18 13:13:56
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2012/01/18/my-letter-to-my-representation-regarding-pipasopa/
+  https://kevindayton.com/2012/01/18/my-letter-to-my-representation-regarding-pipasopa/
 published: true
-aktt_notify_twitter:
-  - 'no'
+post_date: 2012-01-18 13:13:56
 ---
 In case you haven't heard, there is currently a <a title="http://en.wikipedia.org/wiki/Wikipedia:SOPA_initiative/Learn_more" href="http://en.wikipedia.org/wiki/Wikipedia:SOPA_initiative/Learn_more" target="_blank">pair of bills being discussed by both sides of congress</a> that, if passed, will have a profound effect on how the Internet works and enable tools for the government to censor the Internet in profound ways.  The U.S. Senate's version of the bill is called the "Protect-IP Act of 2011" or PIPA.  PIPA's U.S. House counterpart is called the "Stop Online Privacy Act of 2011" or SOPA.  Watch <a title="http://www.youtube.com/watch?v=yDX8Lyl16Qs&amp;feature=youtu.be" href="http://www.youtube.com/watch?v=yDX8Lyl16Qs&amp;feature=youtu.be" target="_blank">this video</a> (<a title="http://www.youtube.com/watch?v=yDX8Lyl16Qs&amp;feature=youtu.be" href="http://www.youtube.com/watch?v=yDX8Lyl16Qs&amp;feature=youtu.be" target="_blank">YouTube</a>) to get an idea about the goals of these bills.  These bills are bad for the Internet and bad for free speech.  Below is the text of a letter I sent to my congressional representation encouraging them to understand the ramifications of the bills and fight against them.  I encourage you to<a title="http://www.usa.gov/Contact/Elected.shtml" href="http://www.usa.gov/Contact/Elected.shtml" target="_blank"> contact your representation</a> as well.  You can steal as much from my letter as is useful.
 

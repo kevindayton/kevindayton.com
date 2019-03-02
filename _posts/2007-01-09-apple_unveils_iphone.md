@@ -2,16 +2,13 @@
 ID: 7
 post_title: Apple unveils iPhone
 author: Kevin L. Dayton
-post_date: 2007-01-09 18:32:33
 post_excerpt: |
-  |
-    The Apple iPhone is a reality (<a href="http://kevindayton.com/?q=node/6" title="iPhone released...by Cisco (Updated) | KevinDayton.com">despite Cisco's trademarks</a>).  I had written a long blog entry about Apple's latest beauty.  Unforunately, my browser crashed in the process, and I lost it all.  I don't have the energy to go through it all again when you can go to Apple's site and get a better rundown than I can provide.
+  The Apple iPhone is a reality (<a href="http://kevindayton.com/?q=node/6" title="iPhone released...by Cisco (Updated) | KevinDayton.com">despite Cisco's trademarks</a>).  I had written a long blog entry about Apple's latest beauty.  Unforunately, my browser crashed in the process, and I lost it all.  I don't have the energy to go through it all again when you can go to Apple's site and get a better rundown than I can provide.
 layout: post
 permalink: >
-  http://kevindayton.com/2007/01/09/apple_unveils_iphone/
+  https://kevindayton.com/2007/01/09/apple_unveils_iphone/
 published: true
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2007-01-09 18:32:33
 ---
 The Apple iPhone is a reality (<a title="iPhone released...by Cisco (Updated) | KevinDayton.com" href="http://kevindayton.com/?q=node/6">despite Cisco's trademarks</a>).  I had written a long blog entry about Apple's latest beauty.  Unforunately, my browser crashed in the process, and I lost it all.  I don't have the energy to go through it all again when you can go to Apple's site and get a better rundown than I can provide.
 

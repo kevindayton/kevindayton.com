@@ -4,16 +4,12 @@ post_title: >
   What Monty says about the Oracle/Sun
   situation
 author: Kevin L. Dayton
-post_date: 2009-04-21 13:27:35
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/04/21/what-monty-says-about-the-oraclesun-situation/
+  https://kevindayton.com/2009/04/21/what-monty-says-about-the-oraclesun-situation/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-04-21 13:27:35
 ---
 <a title="http://monty-says.blogspot.com/2009/04/to-be-free-or-not-to-be-free.html" href="http://monty-says.blogspot.com/2009/04/to-be-free-or-not-to-be-free.html" target="_blank">MySQL inventor Michael "Monty" Widenius shares his thoughts on the deal</a> and its impact on MySQL.
 <blockquote>What could be Oracle's plan with MySQL? Three different plans come to mind:

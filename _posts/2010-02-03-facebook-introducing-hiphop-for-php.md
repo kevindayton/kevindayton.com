@@ -2,16 +2,12 @@
 ID: 448
 post_title: 'Facebook: Introducing HipHop for PHP'
 author: Kevin L. Dayton
-post_date: 2010-02-03 20:15:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2010/02/03/facebook-introducing-hiphop-for-php/
+  https://kevindayton.com/2010/02/03/facebook-introducing-hiphop-for-php/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2010-02-03 20:15:49
 ---
 
 

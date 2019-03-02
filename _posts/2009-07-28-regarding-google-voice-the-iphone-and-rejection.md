@@ -4,16 +4,12 @@ post_title: >
   Regarding Google Voice, the iPhone, and
   rejection
 author: Kevin L. Dayton
-post_date: 2009-07-28 17:39:03
 post_excerpt: "Today has brought yet another big fuss about Apple rejecting an iPhone App Store submission.  This time it wasn't some random developer but none other than Google.  The app was a companion to the Google Voice (GV) service, which ironically, I just received an invitation to yesterday.  The blame and outrage has been pretty evenly spread between Apple and AT&amp;T and rightly so.  The problem I have with some of the commentary out there now is that everyone seems to be making assumptions and illogical leaps to back up their claim on who is at fault."
 layout: post
 permalink: >
-  http://kevindayton.com/2009/07/28/regarding-google-voice-the-iphone-and-rejection/
+  https://kevindayton.com/2009/07/28/regarding-google-voice-the-iphone-and-rejection/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-07-28 17:39:03
 ---
 Today has brought yet another big fuss about Apple rejecting an iPhone App Store submission.  This time it wasn't some random developer but none other than Google.  The app was a companion to the Google Voice (GV) service, which ironically, I just received an invitation to yesterday.  The blame and outrage has been pretty evenly spread between Apple and AT&amp;T and rightly so.  The problem I have with some of the commentary out there now is that everyone seems to be making assumptions and illogical leaps to back up their claim on who is at fault.  For example <a title="http://gigaom.com/2009/07/28/google-voice-iphone/" href="http://gigaom.com/2009/07/28/google-voice-iphone/" target="_blank">GigaOm writes</a>:
 <blockquote>...Some allege that Apple is doing this at AT&amp;T’s behest.

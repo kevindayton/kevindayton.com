@@ -4,14 +4,12 @@ post_title: >
   Tim Cook on iOS encryption and the San
   Bernadino case
 author: Kevin L. Dayton
-post_date: 2016-02-17 08:47:25
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2016/02/17/tim-cook-on-ios-encryption-and-the-san-bernadino-case/
+  https://kevindayton.com/2016/02/17/tim-cook-on-ios-encryption-and-the-san-bernadino-case/
 published: true
-linked_list_url:
-  - http://www.apple.com/customer-letter/
+post_date: 2016-02-17 08:47:25
 ---
 From an <a href="http://www.apple.com/customer-letter/" target="_blank">open letter he published yesterday</a>:
 <blockquote>But now the U.S. government has asked us for something we simply do not have, and something we consider too dangerous to create. They have asked us to build a backdoor to the iPhone.

@@ -2,16 +2,12 @@
 ID: 278
 post_title: R.I.P. Oklahoma City Blazers
 author: Kevin L. Dayton
-post_date: 2009-07-06 11:56:31
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/07/06/rip-oklahoma-city-blazers/
+  https://kevindayton.com/2009/07/06/rip-oklahoma-city-blazers/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-07-06 11:56:31
 ---
 
 

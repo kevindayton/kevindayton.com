@@ -2,12 +2,12 @@
 ID: 84
 post_title: Internet Explorer 6 on OS X made easy
 author: Kevin L. Dayton
-post_date: 2009-02-20 15:37:09
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/02/20/internet-explorer-6-on-os-x-made-easy/
+  https://kevindayton.com/2009/02/20/internet-explorer-6-on-os-x-made-easy/
 published: true
+post_date: 2009-02-20 15:37:09
 ---
 <a href="http://www.kronenberg.org/ies4osx/"></a>
 <p style="text-align: center"><a href="http://www.kronenberg.org/ies4osx/"><img src="http://www.kronenberg.org/ies4osx/ies4osx_256.png" alt="ie4osx" /></a></p>

@@ -2,16 +2,12 @@
 ID: 431
 post_title: Aid organizations need your help
 author: Kevin L. Dayton
-post_date: 2010-01-14 08:06:26
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2010/01/14/aid-organizations-need-your-help/
+  https://kevindayton.com/2010/01/14/aid-organizations-need-your-help/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2010-01-14 08:06:26
 ---
 <p style="text-align: center"></p>
 

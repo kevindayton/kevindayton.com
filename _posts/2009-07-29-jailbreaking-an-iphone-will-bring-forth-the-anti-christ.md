@@ -4,16 +4,12 @@ post_title: >
   Jailbreaking an iPhone will bring forth
   the anti-Christ
 author: Kevin L. Dayton
-post_date: 2009-07-29 20:02:06
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/07/29/jailbreaking-an-iphone-will-bring-forth-the-anti-christ/
+  https://kevindayton.com/2009/07/29/jailbreaking-an-iphone-will-bring-forth-the-anti-christ/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-07-29 20:02:06
 ---
 Or something like that:
 <blockquote>More pernicious forms of activity may also be enabled. For example, a local or international hacker could potentially initiate commands (such as a denial-of-service attack) that could crash the tower software, rendering the tower entirely inoperable to process calls or transmit data. In short, taking control of the BBP software would be much the equivalent of getting inside the firewall of a corporate computer--to potentially catastrophic result.</blockquote>

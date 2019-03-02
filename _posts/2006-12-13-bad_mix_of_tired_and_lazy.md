@@ -2,14 +2,13 @@
 ID: 5
 post_title: Bad mix of tired and lazy
 author: Kevin L. Dayton
-post_date: 2006-12-13 03:09:55
 post_excerpt: |
-  |
-    After all of my excitement about getting this site back up and online, I have quickly been reminded why it took me so long to get it back in the first place.  I have been hit with a bad one-two punch of tired and lazy.  Work has been really busy of late.  That along with a new house and adjusting to married life has meant that I haven't really felt like doing much when I have extra time.
+  After all of my excitement about getting this site back up and online, I have quickly been reminded why it took me so long to get it back in the first place.  I have been hit with a bad one-two punch of tired and lazy.  Work has been really busy of late.  That along with a new house and adjusting to married life has meant that I haven't really felt like doing much when I have extra time.
 layout: post
 permalink: >
-  http://kevindayton.com/2006/12/13/bad_mix_of_tired_and_lazy/
+  https://kevindayton.com/2006/12/13/bad_mix_of_tired_and_lazy/
 published: true
+post_date: 2006-12-13 03:09:55
 ---
 After all of my excitement about getting this site back up and online, I have quickly been reminded why it took me so long to get it back in the first place.  I have been hit with a bad one-two punch of tired and lazy.  Work has been really busy of late.  That along with a new house and adjusting to married life has meant that I haven't really felt like doing much when I have extra time.
 <!--break-->

@@ -2,12 +2,12 @@
 ID: 9
 post_title: 'England&#8217;s changing religious face'
 author: Kevin L. Dayton
-post_date: 2007-02-18 06:53:15
 post_excerpt: 'For the first time since the Protestant Reformation hit the British Isles, Catholics are on the verge of becoming the majority religion among Britons.  This according to <a href="http://www.timesonline.co.uk/tol/news/article1386939.ece" title="Catholics set to pass Anglicans as leading UK church-News-TimesOnline" target="_new">The London Times</a> (and echoed by <a href="http://www.cwnews.com/news/viewstory.cfm?recnum=49304" title="Catholic World News (CWN)" target="_new">CWN</a>).'
 layout: post
 permalink: >
-  http://kevindayton.com/2007/02/18/englands_changing_religious_face/
+  https://kevindayton.com/2007/02/18/englands_changing_religious_face/
 published: true
+post_date: 2007-02-18 06:53:15
 ---
 For the first time since the Protestant Reformation hit the British Isles, Catholics are on the verge of becoming the majority religion among Britons.  This according to <a href="http://www.timesonline.co.uk/tol/news/article1386939.ece" title="Catholics set to pass Anglicans as leading UK church-News-TimesOnline" target="_new">The London Times</a> (and echoed by <a href="http://www.cwnews.com/news/viewstory.cfm?recnum=49304" title="Catholic World News (CWN)" target="_new">CWN</a>).  A combination of immigration from Catholic countries and a steady decline within the Anglican church has led to this distinction.
 

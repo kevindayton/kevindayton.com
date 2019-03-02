@@ -2,16 +2,12 @@
 ID: 462
 post_title: 'Steve Jobs&#8217;s Thoughts on Flash'
 author: Kevin L. Dayton
-post_date: 2010-04-29 13:00:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2010/04/29/steve-jobss-thoughts-on-flash/
+  https://kevindayton.com/2010/04/29/steve-jobss-thoughts-on-flash/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2010-04-29 13:00:41
 ---
 Steve Jobs has published an open letter regarding his <a href="http://www.apple.com/hotnews/thoughts-on-flash/">thoughts on  Flash</a>.  This well-written outline of Apple's relationship with Adobe lays out why Flash is not on any iPhone OS device.  This sums it up pretty well:
 <blockquote>Flash was created during the PC era – for PCs and mice. Flash is a successful business for Adobe, and we can understand why they want to push it beyond PCs. But the mobile era is about low power devices, touch interfaces and open web standards – all areas where Flash falls short.  - Steve Jobs</blockquote>

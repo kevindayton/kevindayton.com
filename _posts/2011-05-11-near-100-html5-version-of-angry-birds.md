@@ -1,17 +1,13 @@
 ---
 ID: 569
-post_title: Near-100% HTML5 version of Angry Birds
+post_title: 'Near-100% HTML5 version of Angry Birds'
 author: Kevin L. Dayton
-post_date: 2011-05-11 20:44:07
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2011/05/11/near-100-html5-version-of-angry-birds/
+  https://kevindayton.com/2011/05/11/near-100-html5-version-of-angry-birds/
 published: true
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2011-05-11 20:44:07
 ---
 <a title="http://chrome.angrybirds.com/" href="http://chrome.angrybirds.com/">There goes productivity everywhere</a>.
 

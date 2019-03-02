@@ -2,16 +2,12 @@
 ID: 533
 post_title: 'The Future of the Catholic Priesthood: Vampire Hunting?'
 author: Kevin L. Dayton
-post_date: 2010-09-10 08:36:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2010/09/10/the-future-of-the-catholic-priesthood-vampire-hunting/
+  https://kevindayton.com/2010/09/10/the-future-of-the-catholic-priesthood-vampire-hunting/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2010-09-10 08:36:18
 ---
 What do you do when vampires turn out to be demonic monsters and not overly-serious teens?  Call in a secret priestly order trained in destroying those pesky little blood suckers, of course.  That's the central story the upcoming movie "<a title="http://www.imdb.com/title/tt0822847/" href="http://www.imdb.com/title/tt0822847/" target="_blank">Priest</a>."
 

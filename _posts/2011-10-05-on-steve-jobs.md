@@ -2,16 +2,12 @@
 ID: 587
 post_title: On Steve Jobs
 author: Kevin L. Dayton
-post_date: 2011-10-05 21:59:28
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2011/10/05/on-steve-jobs/
+  https://kevindayton.com/2011/10/05/on-steve-jobs/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2011-10-05 21:59:28
 ---
 <a href="http://kevindayton.blogs.d8n.net/wp-content/uploads/sites/2/2011/10/jobs.jpg"><img class="aligncenter" title="jobs" src="http://kevindayton.blogs.d8n.net/wp-content/uploads/sites/2/2011/10/jobs.jpg" alt="" width="354" height="237" /></a>
 

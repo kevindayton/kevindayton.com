@@ -4,20 +4,17 @@ post_title: >
   MacBook Air, iTunes movie rentals and
   new iPhone software launch at MWSF
 author: Kevin L. Dayton
-post_date: 2008-01-16 08:09:30
 post_excerpt: |
-  |
-    <div style="text-align: center">
-    <img style="border: none" src="wp-content/uploads/mbair_side.jpg" />
-    <em>Side view of the new "Macbook Air"</em> 
-    </div>
-    <p>The MacWorld San Francisco keynote by Apple CEO Steve Jobs came and went yesterday.  I have to admit that I'm left pretty unimpressed.  I haven't watched the full keynote, but judging from the announcements that came out, nothing really blew me away.  Of course, I bring higher than reasonable expectations into each keynote.  Here are my impressions of the high points.</p>
+  <div style="text-align: center">
+  <img style="border: none" src="wp-content/uploads/mbair_side.jpg" />
+  <em>Side view of the new "Macbook Air"</em>
+  </div>
+  <p>The MacWorld San Francisco keynote by Apple CEO Steve Jobs came and went yesterday.  I have to admit that I'm left pretty unimpressed.  I haven't watched the full keynote, but judging from the announcements that came out, nothing really blew me away.  Of course, I bring higher than reasonable expectations into each keynote.  Here are my impressions of the high points.</p>
 layout: post
 permalink: >
-  http://kevindayton.com/2008/01/16/macbook_air__itunes_movie_rentals_and_new_iphone_software_launch_at_mwsf_/
+  https://kevindayton.com/2008/01/16/macbook_air__itunes_movie_rentals_and_new_iphone_software_launch_at_mwsf_/
 published: true
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2008-01-16 08:09:30
 ---
 <div style="text-align: center"><a href="/wp-content/uploads/mbair_side.jpg"><img style="border: medium none" src="/wp-content/uploads/mbair_side.jpg" alt="" /></a>
 <em>Side view of the new "Macbook Air"</em></div>

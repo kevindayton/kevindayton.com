@@ -4,16 +4,12 @@ post_title: >
   iPhone 3.0 details coming next week
   (Updated)
 author: Kevin L. Dayton
-post_date: 2009-03-12 10:23:44
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/03/12/iphone-30-details-coming-next-week/
+  https://kevindayton.com/2009/03/12/iphone-30-details-coming-next-week/
 published: true
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2009-03-12 10:23:44
 ---
 <a title="http://news.cnet.com/8301-13579_3-10194846-37.html?tag=newsEditorsPicksArea.0" href="http://news.cnet.com/8301-13579_3-10194846-37.html?tag=newsEditorsPicksArea.0" target="_blank">CNET News reports</a> that invitations are out for a media event next week (March 17) to discuss Apple's iPhone OS 3.0.  Will it be a software-only discussion or will it be hardware too?  The anticipation builds!
 

@@ -2,16 +2,12 @@
 ID: 210
 post_title: 'Fr. John Corapi&#8217;s Easter Triduum'
 author: Kevin L. Dayton
-post_date: 2010-04-02 07:32:33
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2010/04/02/fr-john-corapis-easter-triduum/
+  https://kevindayton.com/2010/04/02/fr-john-corapis-easter-triduum/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2010-04-02 07:32:33
 ---
 [caption id="attachment_214" align="aligncenter" width="460" caption="The Washing of the Feet, a Holy Thursday tradition"]<img class="size-full wp-image-214" title="The Washing of the Feet" src="http://kevindayton.blogs.d8n.net/wp-content/uploads/sites/2/2009/04/washing_feet_011.jpg" alt="washing_feet_011" width="460" height="252" />[/caption]
 

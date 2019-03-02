@@ -2,16 +2,12 @@
 ID: 232
 post_title: 'It&#8217;s The Snake!'
 author: Kevin L. Dayton
-post_date: 2009-04-15 15:26:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/04/15/its-the-snakes/
+  https://kevindayton.com/2009/04/15/its-the-snakes/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-04-15 15:26:37
 ---
 A not so little visitor outside my home office window.
 <p style="text-align: center"><a href="http://kevindayton.blogs.d8n.net/wp-content/uploads/sites/2/2009/04/l-1600-1200-615efe80-436c-4903-b781-32babf8c00e3.jpeg"><img class="size-full wp-image-364 aligncenter" style="border: 3px solid gray" title="Snake 1" src="http://kevindayton.blogs.d8n.net/wp-content/uploads/sites/2/2009/04/l-1600-1200-615efe80-436c-4903-b781-32babf8c00e3.jpeg" alt="" width="300" height="225" /></a></p>

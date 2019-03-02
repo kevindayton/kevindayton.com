@@ -2,16 +2,15 @@
 ID: 6
 post_title: 'iPhone released&#8230;by Cisco (Updated)'
 author: Kevin L. Dayton
-post_date: 2006-12-18 02:42:58
 post_excerpt: |
-  |
-    [G2:54]
-    
-    As predicted late last week, the iPhone family was finally released today.  One thing was missing though, Apple.  Instead Cisco, through its sub-brand Linksys, <a href="http://www.linksys.com/servlet/Satellite?c=L_News_C2&amp;childpagename=US%2FLayout&amp;cid=1165633352046&amp;pagename=Linksys%2FCommon%2FVisitorWrapper" title="Linksys.com - Press Release/Linksys Announces iPhone Family Of Voice Over IP Solutions" target="_blank">released a series of home VoIP phones</a> under the "iPhone" moniker.
+  [G2:54]
+  
+  As predicted late last week, the iPhone family was finally released today.  One thing was missing though, Apple.  Instead Cisco, through its sub-brand Linksys, <a href="http://www.linksys.com/servlet/Satellite?c=L_News_C2&amp;childpagename=US%2FLayout&amp;cid=1165633352046&amp;pagename=Linksys%2FCommon%2FVisitorWrapper" title="Linksys.com - Press Release/Linksys Announces iPhone Family Of Voice Over IP Solutions" target="_blank">released a series of home VoIP phones</a> under the "iPhone" moniker.
 layout: post
 permalink: >
-  http://kevindayton.com/2006/12/18/iphone_released___by_cisco_updated/
+  https://kevindayton.com/2006/12/18/iphone_released___by_cisco_updated/
 published: true
+post_date: 2006-12-18 02:42:58
 ---
 [G2:54]
 

@@ -2,16 +2,13 @@
 ID: 1611
 post_title: Top 5 Things To Happen While I Was Gone
 author: Kevin L. Dayton
-post_date: 2006-08-31 18:06:05
 post_excerpt: |
-  |
-    Since this site went down in May of 2005, a lot of things have happened.  Most of them were good and a few bad.  Instead of droning on trying to fill you in on everything, I've compiled a top 5 list to get you caught up.
+  Since this site went down in May of 2005, a lot of things have happened.  Most of them were good and a few bad.  Instead of droning on trying to fill you in on everything, I've compiled a top 5 list to get you caught up.
 layout: post
 permalink: >
-  http://kevindayton.com/2006/08/31/top_5_things_to_happen_while_i_was_gone/
+  https://kevindayton.com/2006/08/31/top_5_things_to_happen_while_i_was_gone/
 published: true
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2006-08-31 18:06:05
 ---
 Since this site went down in May of 2005, a lot of things have happened.  Most of them were good and a few bad.  Instead of droning on trying to fill you in on everything, I've compiled a top 5 list to get you caught up.
 <!--break-->

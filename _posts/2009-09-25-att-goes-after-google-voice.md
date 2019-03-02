@@ -2,16 +2,12 @@
 ID: 426
 post_title: 'AT&amp;T goes after Google Voice'
 author: Kevin L. Dayton
-post_date: 2009-09-25 18:25:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/09/25/att-goes-after-google-voice/
+  https://kevindayton.com/2009/09/25/att-goes-after-google-voice/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-09-25 18:25:37
 ---
 For those who think AT&amp;T had no blood on their hands regarding the Google Voice iPhone app, you might be right.  That doesn't mean they like the service though.  <a href="http://www.phonescoop.com/news/item.php?n=4883" title="http://www.phonescoop.com/news/item.php?n=4883">Phonescoop is reporting</a> that they have filed a complaint against Google for blocking certain numbers.
 

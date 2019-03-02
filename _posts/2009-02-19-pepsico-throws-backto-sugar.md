@@ -2,12 +2,12 @@
 ID: 79
 post_title: 'PepsiCo. throws back&#8230;to sugar'
 author: Kevin L. Dayton
-post_date: 2009-02-19 09:04:46
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/02/19/pepsico-throws-backto-sugar/
+  https://kevindayton.com/2009/02/19/pepsico-throws-backto-sugar/
 published: true
+post_date: 2009-02-19 09:04:46
 ---
 <p style="text-align: center"><a href="http://www.bevreview.com/2009/02/09/pepsi-throwback-mountain-dew-throwback/" target="_blank"><img src="http://www.bevreview.com/wp-content/image_throwbackcombo1.jpg" alt="" /></a></p>
 

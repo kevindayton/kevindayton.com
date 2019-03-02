@@ -2,16 +2,12 @@
 ID: 414
 post_title: '&#8220;The best camera is the one that&#8217;s with you.&#8221; [Updated]'
 author: Kevin L. Dayton
-post_date: 2009-09-24 15:45:39
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/09/24/the-best-camera-is-the-one-thats-with-you/
+  https://kevindayton.com/2009/09/24/the-best-camera-is-the-one-thats-with-you/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-09-24 15:45:39
 ---
 [<a title="Updated on 2009-09-25 09:20" href="#update200909250920">Updated on 2009-09-25 09:20</a>]
 

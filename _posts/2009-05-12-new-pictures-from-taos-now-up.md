@@ -2,16 +2,12 @@
 ID: 265
 post_title: New pictures from Taos now up
 author: Kevin L. Dayton
-post_date: 2009-05-12 18:54:28
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/05/12/new-pictures-from-taos-now-up/
+  https://kevindayton.com/2009/05/12/new-pictures-from-taos-now-up/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-05-12 18:54:28
 ---
 [caption id="attachment_266" align="aligncenter" width="460" caption="View from the Adobe Bar patio, a good place to be while in Taos."]<a href="http://gallery.me.com/dayton/100044" target="_blank"><img class="size-full wp-image-266 " title="Taos Inn" src="http://kevindayton.blogs.d8n.net/wp-content/uploads/sites/2/2009/05/img_0944.jpg" alt="View from the Adobe Bar patio; a good place to be in Taos." width="460" height="345" /></a>[/caption]
 

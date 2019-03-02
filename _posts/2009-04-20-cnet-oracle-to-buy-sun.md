@@ -2,16 +2,12 @@
 ID: 241
 post_title: 'CNet: Oracle to buy Sun'
 author: Kevin L. Dayton
-post_date: 2009-04-20 06:45:43
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/04/20/cnet-oracle-to-buy-sun/
+  https://kevindayton.com/2009/04/20/cnet-oracle-to-buy-sun/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-04-20 06:45:43
 ---
 After months of rumors that IBM was to acquire Sun, <a title="http://news.cnet.com/8301-1001_3-10223044-92.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20" href="http://news.cnet.com/8301-1001_3-10223044-92.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20" target="_blank">Cnet is reporting</a> that Sun is selling, but not to IBM, rather to Oracle.  The deal is reportedly worth $7.4B.
 

@@ -2,12 +2,12 @@
 ID: 71
 post_title: Foxmarks released for Safari
 author: Kevin L. Dayton
-post_date: 2009-02-16 07:49:24
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/02/16/foxmarks-released-for-safari/
+  https://kevindayton.com/2009/02/16/foxmarks-released-for-safari/
 published: true
+post_date: 2009-02-16 07:49:24
 ---
 <p style="text-align: center"><a href="http://blog.foxmarks.com/?p=560"><img class="aligncenter" src="http://blog.foxmarks.com/wp-content/uploads/2009/02/foxmarks-multi-browser-2.jpg" alt="" width="335" height="239" /></a></p>
 

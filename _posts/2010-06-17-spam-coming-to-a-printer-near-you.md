@@ -2,16 +2,12 @@
 ID: 477
 post_title: 'Spam: Coming to a printer near you'
 author: Kevin L. Dayton
-post_date: 2010-06-17 08:28:19
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2010/06/17/spam-coming-to-a-printer-near-you/
+  https://kevindayton.com/2010/06/17/spam-coming-to-a-printer-near-you/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2010-06-17 08:28:19
 ---
 <a title="http://www.computerworld.com/s/article/9178128/HP_partners_with_Yahoo_for_targeted_ads" href="http://www.computerworld.com/s/article/9178128/HP_partners_with_Yahoo_for_targeted_ads" target="_blank">Computerworld reports</a> on HP's plan to send ads to your printer.  While discussing their new Web-connected printers and the idea of scheduled printing of Web-based newspapers,  HP says it will throw in a few printed "targeted" ads along with it.
 <blockquote>The company also sees a potential for localized, targeted advertising to go along with the content. While testing its ePrint Web-connected printers, HP ran two trials where consumers received content from a U.S. national music magazine and major U.S. newspaper along with advertisements, said Stephen Nigro, senior vice president in HP's Imaging and Printing Group.

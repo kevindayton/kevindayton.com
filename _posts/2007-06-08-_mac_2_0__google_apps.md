@@ -2,14 +2,13 @@
 ID: 13
 post_title: .Mac 2.0 = Google Apps?
 author: Kevin L. Dayton
-post_date: 2007-06-08 08:56:39
 post_excerpt: |
-  |
-    In his <a href="http://blogs.business2.com/business2blog/2007/06/is_apple_about_.html" title="The Next Net: Is Apple About to Bundle the Google Webtop Into Every Mac?">Business 2.0 blog, Erick Schonfeld speculates</a> that at the upcoming <a href="http://developer.apple.com/wwdc/" title="Worldwide Developers Conference 2007">Apple Worldwide Developers Conference (WWDC)</a>, Steve Jobs may announce that Apple's <a href="http://www.apple.com/dotmac/" title="Apple .Mac">.Mac</a> Web service will become fully integrated with Google's "Webtop" apps or possibly be replaced by them altogether.
+  In his <a href="http://blogs.business2.com/business2blog/2007/06/is_apple_about_.html" title="The Next Net: Is Apple About to Bundle the Google Webtop Into Every Mac?">Business 2.0 blog, Erick Schonfeld speculates</a> that at the upcoming <a href="http://developer.apple.com/wwdc/" title="Worldwide Developers Conference 2007">Apple Worldwide Developers Conference (WWDC)</a>, Steve Jobs may announce that Apple's <a href="http://www.apple.com/dotmac/" title="Apple .Mac">.Mac</a> Web service will become fully integrated with Google's "Webtop" apps or possibly be replaced by them altogether.
 layout: post
 permalink: >
-  http://kevindayton.com/2007/06/08/_mac_2_0__google_apps/
+  https://kevindayton.com/2007/06/08/_mac_2_0__google_apps/
 published: true
+post_date: 2007-06-08 08:56:39
 ---
 In his <a href="http://blogs.business2.com/business2blog/2007/06/is_apple_about_.html" title="The Next Net: Is Apple About to Bundle the Google Webtop Into Every Mac?">Business 2.0 blog, Erick Schonfeld speculates</a> that at the upcoming <a href="http://developer.apple.com/wwdc/" title="Worldwide Developers Conference 2007">Apple Worldwide Developers Conference (WWDC)</a>, Steve Jobs may announce that Apple's <a href="http://www.apple.com/dotmac/" title="Apple .Mac">.Mac</a> Web service will become fully integrated with Google's "Webtop" apps or possibly be replaced by them altogether.
 

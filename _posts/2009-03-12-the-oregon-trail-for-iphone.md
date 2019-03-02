@@ -2,16 +2,12 @@
 ID: 122
 post_title: ‘The Oregon Trail’ for iPhone
 author: Kevin L. Dayton
-post_date: 2009-03-12 06:09:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/03/12/the-oregon-trail-for-iphone/
+  https://kevindayton.com/2009/03/12/the-oregon-trail-for-iphone/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-03-12 06:09:00
 ---
 
 

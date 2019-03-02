@@ -2,24 +2,23 @@
 ID: 18
 post_title: Redesigns all around!
 author: Kevin L. Dayton
-post_date: 2008-01-14 19:21:05
 post_excerpt: |
-  |
-    <div style="text-align: center">
-    <a href="/wp-content/uploads/olph_old_800.png" rel="lightbox[olph]" title="Old Design">
-    <img style="border: none" title="Old Design" src="/wp-content/uploads/olph_old_300.png" />
-    </a>
-    <a href="/wp-content/uploads/olph_new_800.png" rel="lightbox[olph]" title="New Design">
-    <img style="border: none" title="New Design" src="/wp-content/uploads/olph_new_300.png" />
-    </a>
-    <em>Top: Old Design.  Bottom: New design.</em>
-    </div>
-    
-    For almost ten years, my <a href="http://cathedralokc.org" title="The Cathedral of Our Lady of Perpetual Help">church's Web site</a> has gone relatively unchanged.  The design had become dated and so had the process to add and update the content on it.  Shortly after joining the church about two and a half years ago, I volunteered to take on or assist in a makeover project.  It took a while for the stars to align, but after starting work a few months ago, we finally launched the redesign this week.
+  <div style="text-align: center">
+  <a href="/wp-content/uploads/olph_old_800.png" rel="lightbox[olph]" title="Old Design">
+  <img style="border: none" title="Old Design" src="/wp-content/uploads/olph_old_300.png" />
+  </a>
+  <a href="/wp-content/uploads/olph_new_800.png" rel="lightbox[olph]" title="New Design">
+  <img style="border: none" title="New Design" src="/wp-content/uploads/olph_new_300.png" />
+  </a>
+  <em>Top: Old Design.  Bottom: New design.</em>
+  </div>
+  
+  For almost ten years, my <a href="http://cathedralokc.org" title="The Cathedral of Our Lady of Perpetual Help">church's Web site</a> has gone relatively unchanged.  The design had become dated and so had the process to add and update the content on it.  Shortly after joining the church about two and a half years ago, I volunteered to take on or assist in a makeover project.  It took a while for the stars to align, but after starting work a few months ago, we finally launched the redesign this week.
 layout: post
 permalink: >
-  http://kevindayton.com/2008/01/14/redesigns_all_around/
+  https://kevindayton.com/2008/01/14/redesigns_all_around/
 published: true
+post_date: 2008-01-14 19:21:05
 ---
 <div style="text-align: center">
 <a href="/wp-content/uploads/olph_old_800.png" rel="lightbox[olph]" title="Old Design">

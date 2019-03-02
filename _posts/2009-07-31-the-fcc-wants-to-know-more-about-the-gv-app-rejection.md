@@ -4,16 +4,12 @@ post_title: >
   The FCC wants to know more about the GV
   app rejection
 author: Kevin L. Dayton
-post_date: 2009-07-31 19:56:10
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/07/31/the-fcc-wants-to-know-more-about-the-gv-app-rejection/
+  https://kevindayton.com/2009/07/31/the-fcc-wants-to-know-more-about-the-gv-app-rejection/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-07-31 19:56:10
 ---
 Via <a href="http://www.macrumors.com/2009/07/31/fcc-investigating-apples-rejection-of-google-voice-iphone-application/" title="http://www.macrumors.com/2009/07/31/fcc-investigating-apples-rejection-of-google-voice-iphone-application/">MacRumors</a>:
 

@@ -2,16 +2,12 @@
 ID: 93
 post_title: Obama bigger than Jesus, survey shows
 author: Kevin L. Dayton
-post_date: 2009-02-23 07:11:07
 post_excerpt: ""
 layout: post
 permalink: >
-  http://kevindayton.com/2009/02/23/obama-bigger-than-jesus-survey-shows/
+  https://kevindayton.com/2009/02/23/obama-bigger-than-jesus-survey-shows/
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
+post_date: 2009-02-23 07:11:07
 ---
 A recent Harris Poll (via <a title="http://www.catholicnewsagency.com/new.php?n=15160" href="http://www.catholicnewsagency.com/new.php?n=15160" target="_blank">Catholic News Agency</a>) shows that President Obama's status as a hero has eclipsed that of Jesus in the eyes of Americans.
 <blockquote>Respondents most often named Barack Obama, followed by Jesus Christ, Martin Luther King, Jr., Ronald Reagan and George W. Bush.
